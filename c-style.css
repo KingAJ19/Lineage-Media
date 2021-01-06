@@ -31,8 +31,8 @@
 .box{
     padding: 12px;
 }
-.box2{
-    align-items: center;
-    justify-content: center;
-    inline-size: auto;
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
 }
