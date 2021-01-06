@@ -36,3 +36,7 @@
     float: none; /* Added */
     margin-bottom: 10px; /* Added */
 }
+.icons {
+    display: flex;
+    justify-content: center;
+}
